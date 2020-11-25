@@ -1472,6 +1472,7 @@ td a.dropdown-menu:hover i {
     display: block;
     z-index: 1000;
     min-width: 160px;
+    min-height: 200px;
     padding: 5px 0;
     background: #fff;
     list-style: none;
